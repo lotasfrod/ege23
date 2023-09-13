@@ -1,6 +1,6 @@
 import turtle as t
 k = 50
-t.tracer(False)
+t.tracer(0)
 t.left(90)
 
 for i in range(15):

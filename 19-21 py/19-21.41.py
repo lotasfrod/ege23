@@ -1,4 +1,4 @@
-print('Задача 19')
+'''print('Задача 19')
 def f(x,p):
     if x>=50 or p>3:
         return p==3
@@ -24,4 +24,5 @@ def f(x,p):
 for s in range(1,50):
     if f(s,1):
         print(s)
-        break
+        break'''
+print((13*11)+121-48)
